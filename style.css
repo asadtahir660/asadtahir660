@@ -59,6 +59,39 @@
 	width: 100%;	
 }
 
+/* holiday bar */
+
+.holiday-search {
+	background-color: #183951;
+	width: 100%; 
+	height:85px;
+}
+.holiday-search-left-margin{
+	margin-left: 10%;
+}
+.holiday-text{
+	color:#ffffff;
+}
+.holiday-text-2{
+	color:#ffffff;
+}
+.holiday-text-1 {
+	color: #ffffff;
+}
+.holiday-text-3 {
+	color: #ffffff;
+}
+.holiday-margin-left{
+	margin-left: 10%;
+}
+.dotes-margine {
+	margin-bottom: 85px;
+}
+
+.holiday-icon-size img {
+	height:110px;
+}
+
 .carousel-text {
 	color: #000000;
 }
@@ -68,9 +101,11 @@
 	height: 450px;
 	min-height: 100%;
 	background-size: 100% 100%; 
-	background-image: url("banner hotel.jpg");
+	background-image: url("http://cdn1.buuteeq.com/upload/2015962/caronchi_photography_150902_9341_2_3_4_5.jpg.1920x1080_0_201_10000.jpg");
 	text-align: center;
-	color: #ffffff;
+	color: #000000;
+	opacity: 1.3;
+ 	filter: grayscale(100%);
 }
 .drop-down-icon {
 	margin-left: 50px;
