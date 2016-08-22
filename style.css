@@ -1,34 +1,59 @@
 #one {
 	width: 100%;
-	height: 100%;
-	background-color: red;
+	height: 768px;
+	background-color: red;	
 
 }
+#one ul {
 
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	background: #000000;
+	
+	overflow: hidden;
+
+
+}
+#one li {
+	float: left;
+	
+}
+#one li a {
+	padding: 5px;
+	color: #ffffff;
+	display: block;
+	
+}
+
+#one li a:hover{
+	background-color: blue; 
+	color: red;
+}
 #two {
 	width: 100%;
-	height: 100%;
+	height: 768px;
 	background-color: gray;
-	
+		
 }
 
 #three {
 	width: 100%;
-	height: 100%;
+	height: 768px;
 	background-color: black;
 	
 }
 
 #four {
 	width: 100%;
-	height: 100%;
+	height: 768px;
 	background-color: green;
 	
 }
 
 #five {
 	width: 100%;
-	height: 100%;
+	height: 768px;
 	background-color: yellow;
 	
 }
