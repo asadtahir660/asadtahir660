@@ -22,3 +22,9 @@ Dated: 23/08/2016.
 3. I can make multy pages website and added in pictures in this pages.
 
 
+Dated: 24/08/2016.
+
+Today No work. On leave.
+
+
+
